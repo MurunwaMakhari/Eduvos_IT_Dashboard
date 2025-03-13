@@ -1,0 +1,10 @@
+name: dashboard_app
+title:
+username: murunwamakhari
+account: murunwamakhari
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14239020
+bundleId: 9940462
+url: https://murunwamakhari.shinyapps.io/dashboard_app/
+version: 1
